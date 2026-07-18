@@ -6,9 +6,9 @@ content hash = git tree hash of the pinned rev.
 
 | Interface consumed | Repo | Pinned rev | Content hash | Notes |
 |---|---|---|---|---|
-| mycelium-core | https://github.com/tzervas/mycelium-core | `781d3fcceba82acfe6b0eb46650513bd78a2416b` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-core` (see monorepo `docs/api-index/INDEX.md#mycelium-core`) |
-| mycelium-numerics | https://github.com/tzervas/mycelium-value | `fce92daed05e9f10202c202648ec43fb0a6991d7` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-numerics` (see monorepo `docs/api-index/INDEX.md#mycelium-numerics`) |
-| mycelium-std-core | https://github.com/tzervas/mycelium-std-core | `580b64316774e22f0b7d5d495ca1d9b9d6536a60` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-std-core` (see monorepo `docs/api-index/INDEX.md#mycelium-std-core`) |
+| mycelium-core | https://github.com/tzervas/mycelium-core | `46d2515cbd86d2ae4d1365f4adcd2796737e9f0b` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-core` (see monorepo `docs/api-index/INDEX.md#mycelium-core`) |
+| mycelium-numerics | https://github.com/tzervas/mycelium-value | `6d230ad2023a716704c697ac6812a2062624b4eb` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-numerics` (see monorepo `docs/api-index/INDEX.md#mycelium-numerics`) |
+| mycelium-std-core | https://github.com/tzervas/mycelium-std-core | `376762cc17853e1582684ececf9e760426bcfb0c` | tree `(tree hash: fetch dep rev locally to resolve)` | Rust API of `mycelium-std-core` (see monorepo `docs/api-index/INDEX.md#mycelium-std-core`) |
 
 **Owning docs:** `docs/spec/stdlib/numerics.md` (slice in this repo) · RFC-0016.
 **Source provenance:** extracted from `tzervas/mycelium` archive `aad96b7a…`; fixed by
